@@ -3,6 +3,6 @@ project(arek)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(arek main.cpp na19.cpp workshop3.cpp)
+add_executable(arek main.cpp )
 
-       # //main.cpp na19.cpp)
+       # //main.cpp na19.cpp workshop3.cpp)
